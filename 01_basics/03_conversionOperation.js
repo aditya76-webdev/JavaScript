@@ -90,9 +90,19 @@ the equality operator (`==`). In JavaScript, the equality operator checks if the
 sides are equal, and in this case, it will return `true` because both `undefined` and `null` are
 considered equal when using the equality operator. */
 
+console.log(undefined === null);
+/* The line `console.log(undefined === null);` is comparing the values of `undefined` and `null` using
+the strict equality operator (`===`). In JavaScript, the strict equality operator checks if the
+values on both sides are equal and of the same type. In this case, it will return `false` because
+`undefined` and `null` are not of the same type. */
 
 
-// console.log(undefined === null);
+
+
+
+
+
+
 // console.log(undefined > null);
 // console.log(undefined < null);
 // console.log(undefined <= null);
