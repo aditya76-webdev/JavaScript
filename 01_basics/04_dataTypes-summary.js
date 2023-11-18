@@ -16,7 +16,7 @@ const anotherId = Symbol ('123');
 
 const bigNumber = 654941964489454856n;
 
-console.log(typeof bigNumber);
+// console.log(typeof bigNumber);
 
 //Reference ( non- primitive) 
 
@@ -38,7 +38,18 @@ function bhupendrajogi() {
 
 }
 
-bhupendrajogi();
+// bhupendrajogi();
 // bhupendra jogi is future
 
 // lets crack it 
+
+//DataType Pata kaise kare ??
+
+// we can find it by using a function "typeof":- (For more detail read "typeof operator section in ECMA Script Documentation");
+
+
+// Examples of using typeof:-
+
+// console.log(typeof heros);
+
+console.log(typeof outsideTemp);
