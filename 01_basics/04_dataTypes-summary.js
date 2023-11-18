@@ -1,3 +1,13 @@
+/**
+ * This JavaScript code demonstrates the different types of data in JavaScript, including primitive
+ * types (such as strings, numbers, booleans, null, undefined, symbols, and BigInt) and reference types
+ * (such as arrays, objects, and functions).
+ */
+/**
+ * This JavaScript code demonstrates the different types of data in JavaScript, including primitive
+ * types (such as strings, numbers, booleans, null, undefined, symbols, and BigInt) and reference types
+ * (such as arrays, objects, and functions).
+ */
 // Primitive
 
 // 7 types: String, Number, Boolean , null , undefined , symbol , BigInt 
