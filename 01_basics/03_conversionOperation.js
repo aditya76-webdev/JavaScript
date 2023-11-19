@@ -69,13 +69,28 @@ incremented before it is used in the current expression or statement. */
 
 // console.log(gameCounter);
 
-// *****************************comparison operator***********************
+// *****************************comparison operator*********************** Comparison operators always return a boolean value. ///////
 
-// console.log(2>1);
-// console.log(2>=1);
-// console.log(2<1);
-// console.log(2==1);
-// console.log(2!=1);
+console.log(2>1);
+// The Greater than (>) operator checks if the left value is greater than the right value.
+
+
+console.log(2>=1);
+// Similar to the operators above, there are also the Less than or equal (<=) and Greater than or equal (>=) operators. 
+
+
+console.log(2<1);
+// The Less than (<) operator checks if the left value is less than the right value.
+
+
+console.log(2==1);
+//  Here, we used the Equal to (==) operator to check if the values of priceOne and priceTwo are equal.
+
+
+console.log(2!=1); 
+// The second operator we explore is the Not Equal to (!=) operator. It checks if two values are not equal.
+
+
 
 // console.log(null>0);
 // console.log(null == 0);
