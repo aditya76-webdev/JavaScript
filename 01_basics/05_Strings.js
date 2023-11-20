@@ -75,6 +75,11 @@ console.log(url.includes("kumkum"));
 
 console.log(url.includes("aditya"));
 
+const jujutsu = "aditya-harish-vandana-kumkum-jain";
+
+console.log(jujutsu.split('-'));
+
+
 
 
 
